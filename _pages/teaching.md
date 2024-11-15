@@ -9,7 +9,7 @@ nav_order: 4
 
 <a href ='https://www.publichealth.columbia.edu/'> Department of Biostatistics, Columbia University</a>, 2020 - Present
 
-P8108 - Survival Analysis
+P8108 - Survival Analysis 
 
 P8144 - Pharmaceutical Statistics
 
