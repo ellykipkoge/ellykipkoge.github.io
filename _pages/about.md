@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Columbia Universiy</a>. ek3235@cumc.columbia.edu
+subtitle: <a href='#'>Columbia Universiy</a>. 
 
 profile:
   align: right
-  image: image001 (2).jpeg
+  image: image001.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>722 West 168th Street</p>
