@@ -7,13 +7,13 @@ nav: true
 nav_order: 3
 ---
 
-Columbia University 
+**Columbia University**
 
 P8108 - Survival Analysis
 
 P8144 - Pharmaceutical Statistics
 
-Cornell University 
+**Cornell University**
 
 STSCI 2150 - Introductory Statistics for Biology
 
