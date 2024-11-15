@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am third year PhD student in the <a  href = 'https://www.publichealth.columbia.edu/academics/departments/biostatistics'> Department of Biostatistics </a> at Columbia University, advised by <a href = 'https://www.columbia.edu/~bc2159/index.html' > Prof Bin Cheng </a> and  <a href = 'https://www.columbia.edu/~mq2158/' > Prof Min Qian </a>. 
+I am third year PhD student in the <a  href = 'https://www.publichealth.columbia.edu/academics/departments/biostatistics'> Department of Biostatistics at Columbia University  </a> , advised by <a href = 'https://www.columbia.edu/~bc2159/index.html' > Prof Bin Cheng </a> and  <a href = 'https://www.columbia.edu/~mq2158/' > Prof Min Qian </a>. 
