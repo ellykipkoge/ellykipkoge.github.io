@@ -15,10 +15,10 @@ P8144 - Pharmaceutical Statistics
 
 <a href ='https://www.cornell.edu/'> Department of Statistics and Data Science, Cornell University </a>, 2017 - 2019
 
-STSCI 2150 - Introductory Statistics for Biology
+STSCI 2150 - Introductory Statistics for Biology ( 2 semesters )
 
-STSCI 4270 - Introduction to Survival Analysis
+STSCI 4270 - Introduction to Survival Analysis ( 1 semester )
 
-STSCI 4030 - Linear Models with Matrices
+STSCI 4030 - Linear Models with Matrices ( 1 semester )
 
-STSCI 4090 - Theory of Statistics
+STSCI 4090 - Theory of Statistics (1 semester )
