@@ -8,7 +8,7 @@ profile:
   align: right
   image: image001.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  <!-- more_info: >
     <p> Elly Kipkogei </p>
     <p> PhD Student at Columbia University </p>
     <p>722 West 168th Street</p>
@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<h1>About Me</h1>
+I am third year PhD student in the Department of Biostatistics at Columbia University.  
