@@ -6,7 +6,7 @@ subtitle: <a href='#'>Columbia Universiy</a>. ek3235@cumc.columbia.edu
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: image001 (2).jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>722 West 168th Street</p>
