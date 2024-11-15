@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Columbia Universiy</a>. email : ek3235@cumc.columbia.edu
+subtitle: <a href='#'>Columbia Universiy</a>. ek3235@cumc.columbia.edu
 
 profile:
   align: right
