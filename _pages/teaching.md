@@ -7,13 +7,13 @@ nav: true
 nav_order: 4
 ---
 
-**Department of Biostatistics, Columbia University**, 2020 - Present
+<a href ='https://www.publichealth.columbia.edu/'> Department of Biostatistics, Columbia University</a>, 2020 - Present
 
 P8108 - Survival Analysis
 
 P8144 - Pharmaceutical Statistics
 
-**Department of Statistics and Data Science, Cornell University**, 2017 - 2019
+<a href ='https://www.cornell.edu/'> Department of Statistics and Data Science, Cornell University </a>, 2017 - 2019
 
 STSCI 2150 - Introductory Statistics for Biology
 
