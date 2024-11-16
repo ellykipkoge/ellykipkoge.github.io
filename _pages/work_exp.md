@@ -11,4 +11,4 @@ R&D Senior Data Scientist, <a href='https://www.astrazeneca.com/' > AstraZenca <
 
 R&D Data & AI Graduate Scientist, <a href='https://www.astrazeneca.com/' > AstraZenca </a> | Sep 2019 - Dec 2021
 
-Undergraduate Quantitative Research Intern, Memorial Sloan Kettering Cancer Center (MSKCC) | June - Aug 2018
+Undergraduate Quantitative Research Intern, <a href='https://www.mskcc.org/departments/epidemiology-biostatistics/educational-opportunities/quantitative-sciences-summer-undergraduate-research-experience-qsure/qsure-alumni' > Memorial Sloan Kettering Cancer Center (MSKCC) </a> | June - Aug 2018
