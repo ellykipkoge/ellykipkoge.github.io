@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /Publications/
 title: Publications
 description: 
 nav: true
@@ -13,7 +13,7 @@ nav_order: 2
 
 <!-- {% include bib_search.liquid %} --> 
 
-<div class="publications">
+<div class="Publications">
 
 {% bibliography %}
 
