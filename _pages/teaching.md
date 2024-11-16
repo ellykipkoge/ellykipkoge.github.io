@@ -7,18 +7,22 @@ nav: true
 nav_order: 4
 ---
 
-<a href ='https://www.publichealth.columbia.edu/'> Department of Biostatistics, Columbia University</a>, 2020 - Present
+<a href ='https://www.publichealth.columbia.edu/'> Department of Biostatistics, Columbia University</a>
 
-P8108 - Survival Analysis 
+Fall 2022, 2023, 2024 : P8108 - Survival Analysis 
 
-P8144 - Pharmaceutical Statistics
+Spring 2023, 2024 : P8144 - Pharmaceutical Statistics
 
-<a href ='https://www.cornell.edu/'> Department of Statistics and Data Science, Cornell University </a>, 2017 - 2019
+<a href ='https://www.cornell.edu/'> Department of Statistics and Data Science, Cornell University </a> 
 
-STSCI 2150 - Introductory Statistics for Biology ( 2 semesters )
+Spring 2018: STSCI 4090 - Theory of Statistics
 
-STSCI 4270 - Introduction to Survival Analysis ( 1 semester )
+Fall 2018 : STSCI 4030 - Linear Models with Matrices 
 
-STSCI 4030 - Linear Models with Matrices ( 1 semester )
+Fall 2017, Spring 2018 : STSCI 2150 - Introductory Statistics for Biology 
 
-STSCI 4090 - Theory of Statistics (1 semester )
+<!--Fall 2018: STSCI 4270 - Introduction to Survival Analysis ( 1 semester ) -->
+
+
+
+
