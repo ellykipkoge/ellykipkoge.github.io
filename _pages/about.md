@@ -27,5 +27,5 @@ I am third year PhD student in the <a  href = 'https://www.publichealth.columbia
   
 - Clinical Trials: Design, implementation and evaluation of randomized trials within the hospital settings.
   
-- Personalized Medicine: Predictive biomarkers research in Oncology 
+- Personalized Medicine: Predictive biomarkers research in Oncology, Survival Analysis 
 
