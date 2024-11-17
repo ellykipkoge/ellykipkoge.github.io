@@ -24,8 +24,8 @@ I am third year PhD student in the <a  href = 'https://www.publichealth.columbia
 <head>Research Interests </head>
 
 - Explainable AI: Leveraging predictive power of deep learning and the use of attention mechanism in cancer drug development.
-- 
+  
 - Clinical Trials: Design, implementation and evaluation of randomized trials within the hospital settings.
-- 
+  
 - Personalized Medicine: Predictive biomarkers research in Oncology 
 
