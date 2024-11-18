@@ -21,16 +21,16 @@ social: true # includes social icons at the bottom of the page
 
 I am third year PhD student in the <a  href = 'https://www.publichealth.columbia.edu/academics/departments/biostatistics'> Department of Biostatistics at Columbia University  </a> working under the mentorship of <a href = 'https://www.columbia.edu/~bc2159/index.html' > Prof Bin Cheng </a> and  <a href = 'https://www.columbia.edu/~mq2158/' > Prof Min Qian </a>. 
 
-Before joining Columbia, I worked at <a href='https://www.astrazeneca.com/'> AstraZeneca BioPharmaceutical Company </a> as a Senior Data Scientist. In this role, I researched explainable AI methods in the context of clinical factors, molecular variables, and clinical outcomes . I also worked on flexible methods for identifying prognostic and predictive biomarkers in cancer treatments. 
+Before joining Columbia, I worked at <a href='https://www.astrazeneca.com/'> AstraZeneca (AZ) BioPharmaceutical Company </a> as a Senior Data Scientist. Over the course of my time in AZ, I researched explainable AI (xAI) methods and their applicability to clinical factors, molecular variables, and clinical outcomes as opposed to text or image data. Together with my collaborators, our objective was to exploit the ability of deep learning models to ingest datasets from multiple modalities, predict survival outcomes and identify prognostic variables. For explainability part of our research, we looked at attention mechanism - a defining characteristic of transformer-based deep learning models. I also worked on methods for identifying predictive biomarkers in cancer treatments. 
 
 
-<head>My research interests revolve around 4 main areas:</head>
+<head>Here, I summarize my research interests into 3 main areas:</head>
 
 - Explainable AI: Leveraging predictive power of deep learning and the use of attention-based transformer models in cancer drug development.
   
 - Clinical Trials: AI and clinical trials, design, implementation and evaluation of randomized trials within the hospital settings.
   
-- Personalized Medicine: Predictive biomarkers research in Oncology
+- Personalized Medicine: Flexible methods for indentifying predictive biomarkers in Oncology. 
 
 
 
