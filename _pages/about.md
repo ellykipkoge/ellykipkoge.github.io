@@ -30,7 +30,7 @@ Before joining Columbia, I worked at <a href='https://www.astrazeneca.com/'> Ast
   
 - Clinical Trials: AI and clinical trials, design, implementation and evaluation of randomized trials within the hospital settings.
   
-- Personalized Medicine: Flexible methods for indentifying predictive biomarkers in Oncology.
+- Personalized Medicine: Flexible methods for identifying predictive biomarkers in Oncology.
 
 
 Beyond research, I am also interested in statistical communication looking at how to: make statitical concepts easier to understand, promote proper use of statistical methods, minimize misinterpretation of study findings.
