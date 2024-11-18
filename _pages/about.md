@@ -33,7 +33,7 @@ Before joining Columbia, I worked at <a href='https://www.astrazeneca.com/'> Ast
 - Personalized Medicine: Flexible methods for indentifying predictive biomarkers in Oncology.
 
 
-Beyond research, I am also interested in statitical communication looking at how to distill complex statitical concepts to make them easy to understand, and promoting proper use of statistical methods and interpretation. 
+Beyond research, I am also interested in statitical communication looking at how to distill complex statitical concepts to make them easy to understand, and promoting proper use of statistical methods. 
 
 
 
