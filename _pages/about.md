@@ -5,7 +5,7 @@ permalink: /
 <!--subtitle: <a href='#'>PhD Student, Columbia University</a> -->
 
 profile:
-  align: right
+  align: left
   image: image001.jpeg
   image_circular: false # crops the image to make it circular
   <!-- more_info: >
