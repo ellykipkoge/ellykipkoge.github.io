@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-R&D Senior Data Scientist, <a href='https://www.astrazeneca.com/' > AstraZenca </a> \| Jan 2022 - Aug 2022
+R&D Senior Data Scientist, <a href='https://www.astrazeneca.com/' > AstraZenca </a> \| Jan - Aug 2022
 
 R&D Data & AI Graduate Scientist, <a href='https://www.astrazeneca.com/' > AstraZenca </a> \| Sep 2019 - Dec 2021
 
