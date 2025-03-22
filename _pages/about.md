@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: left
   image: image_profile.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   <!-- more_info: >
     <p> Elly Kipkogei </p>
     <p> PhD Student at Columbia University </p>
