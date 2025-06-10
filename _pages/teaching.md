@@ -11,7 +11,7 @@ nav_order: 4
 
 Fall 2022, 2023, 2024 : P8108 - Survival Analysis 
 
-Spring 2023, 2024 : P8144 - Pharmaceutical Statistics
+Spring 2023, 2024, 2025 : P8144 - Pharmaceutical Statistics
 
 <a href ='https://www.cornell.edu/'> Department of Statistics and Data Science, Cornell University </a> 
 
