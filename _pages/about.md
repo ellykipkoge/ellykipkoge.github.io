@@ -26,7 +26,7 @@ Before joining Columbia, I worked at <a href='https://www.astrazeneca.com/'> Ast
 
 <head>My research interests revolve around 3 main areas:</head>
 
-- Explainable AI: Leveraging predictive power of deep learning and the use of attention-based transformer models in cancer drug development.
+- Explainable AI: Leveraging predictive power of deep learning and the use of attention-based transformer models in cancer drugs development.
   
 - Clinical Trials: AI and clinical trials, design, implementation and evaluation of randomized trials within the hospital settings.
   
