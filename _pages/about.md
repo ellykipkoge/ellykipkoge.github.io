@@ -24,7 +24,7 @@ I am a fourth year PhD student in the <a  href = 'https://www.publichealth.colum
 Before joining Columbia, I worked at <a href='https://www.astrazeneca.com/'> AstraZeneca (AZ) BioPharmaceutical Company </a> as a Senior Data Scientist. At AZ, I researched explainable AI (xAI) methods and their applicability to clinical factors, molecular variables, and clinical outcomes as opposed to text or image data. Our goal was to exploit the ability of deep learning models to ingest datasets from multiple modalities, predict survival outcomes and identify prognostic variables. For explainability part of our research, we looked at attention mechanism - a defining characteristic of transformer-based deep learning models. I also worked on methods for identifying predictive biomarkers in cancer treatments. 
 
 
-<head>My research interests:</head>
+<head>Research interests:</head>
 
 - Explainable AI: Leveraging predictive power of deep learning and the use of attention-based transformer models in cancer drugs development.
   
