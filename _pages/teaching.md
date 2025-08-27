@@ -9,7 +9,7 @@ nav_order: 4
 
 <a href ='https://www.publichealth.columbia.edu/'> Department of Biostatistics, Columbia University</a>
 
-Fall 2022, 2023, 2024 : P8108 - Survival Analysis 
+Fall 2022, 2023, 2024, 2025: P8108 - Survival Analysis 
 
 Spring 2023, 2024, 2025 : P8144 - Pharmaceutical Statistics
 
